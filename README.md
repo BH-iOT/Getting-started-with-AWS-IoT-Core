@@ -29,12 +29,12 @@
 
 ## IOT SETUP
 
-![](demo.png)
+![](demo.jpg)
 
 
 ## AWS Mqtt Client SS
 
-![](AWS_mqtt.png)
+![](aws_mqtt.png)
 
 
 ## LINK FOR WRITTEN BLOG
