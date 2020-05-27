@@ -2,7 +2,7 @@
 
 ## YOUTUBE TUTORIAL LINKS
 
-1. Configuring the AWS Thing | Introduction (PART 1):- https://youtu.be/TN50yeumrIg
+1. Configuring the AWS Thing | Introduction (PART 1):- https://youtu.be/NgESP53zceg
 2. Circuit Diagram and Arduino Code Explained (PART 2):- https://youtu.be/tDehzSIK2YM
 3. Restful api from Postman & Configuring AWS SNS (PART 3):- Uploaded Soon!
 
