@@ -7,6 +7,7 @@
 3. Restful api from Postman & Configuring AWS SNS (PART 3):- Uploaded Soon!
 
 - PPT USED DURING THE SESSION:- aws.pptx
+- Steps to configure AWS IoT Thing:- doc/README.md
 
 
 ## CODE WITH DESCRIPTION
