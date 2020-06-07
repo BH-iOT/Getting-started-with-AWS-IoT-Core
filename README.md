@@ -9,6 +9,10 @@
 - PPT USED DURING THE SESSION:- aws.pptx
 - Steps to configure AWS IoT Thing:- doc/README.md
 
+## SUPPORT ME
+
+https://paypal.me/jigneshk5
+
 
 ## CODE WITH DESCRIPTION
 
